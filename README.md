@@ -1,6 +1,8 @@
-## Hey, I'm Hasan Kağan. :smirk:
+## Hey, I'm <font color="LİGREEN">Hasan Kağan</font>. :smirk:
 
-### Social Media Accounts
+### Welcome to my <font color="CYAN">GitHub</font> Profile<font color="brightred">!</font> 
+
+### <font color="YELLOW"> Social Media Accounts </font>
 
 [<img width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][İnstagram]
 [<img width="24" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][Twitter]
